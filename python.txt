@@ -2,4 +2,5 @@ Python Learning Plan
 
 1. Array indexing in Numpy
 2. Practice using pass in if/else statements
-
+3. Get better at plottting with matplotlib
+4. Look into to pandas library
