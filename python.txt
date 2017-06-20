@@ -6,3 +6,4 @@ Python Learning Plan
 4. Look into to pandas library
 5. Practice signal processing in Numpy
 6. Learn generators and co-routines
+7. Import CSV data
